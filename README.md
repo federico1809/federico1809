@@ -23,7 +23,7 @@ structured, methodical, and focused on building things that actually work.
 
 ## What I work with
 
-**Data & Analysis:** SQL · Python · Pandas · NumPy · EDA · Power BI · Tableau
+**Data & Analysis:** SQL · Python · Pandas · NumPy · EDA · Power BI · Tableau  
 **Machine Learning:** scikit-learn · Classification · Regression · Feature Engineering · Model Evaluation  
 **MLOps & Tools:** Docker · CI/CD · GitHub Actions · Git · Jupyter · Linux  
 **Methodologies:** Agile (Scrum) · Software Engineering Best Practices
