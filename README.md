@@ -1,6 +1,6 @@
 # Hi, I'm Federico Ceballos Torres 👋
 
-**Data Analyst | Junior Data Scientist**  
+**Data Scientist | Data Analyst**  
 📍 Argentina · Remote · Open to international opportunities
 
 ---
