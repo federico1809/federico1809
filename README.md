@@ -1,46 +1,75 @@
-# Hi, I'm Federico Ceballos Torres 👋
+# Federico Ceballos Torres
 
 **Data Scientist | Data Analyst**  
-📍 Argentina · Remote · Open to international opportunities
+Python · SQL · LightGBM · XGBoost · QA background · Remote International
+
+I build end-to-end data and machine learning solutions for decision-making, with a strong focus on validation, reproducibility, and production readiness.
+
+My background combines:
+- 5+ years in QA Engineering and Scrum Master roles, where I developed structured validation habits and a systems mindset.
+- Hands-on work across the full data workflow: SQL extraction, EDA, feature engineering, supervised learning, evaluation, and deployment.
+
+## Featured Projects
+
+### [Credit Risk Modeling — $16.8M Business Impact Optimization](https://github.com/federico1809/credit-risk-modeling)
+End-to-end ML system for loan default prediction.
+
+What it includes:
+- EDA, feature engineering, and model development with XGBoost.
+- Threshold optimization framed as a business cost minimization problem.
+- SHAP explainability, Optuna tuning, and Docker-based reproducibility.
+- Projected 38.3% cost reduction ($16.8M).
+
+Tech: Python · XGBoost · SHAP · Optuna · Docker · scikit-learn
 
 ---
 
-## About me
+### [Insight Commerce — Next-Basket RecSys · Deployed on AWS](https://github.com/federico1809/insight-commerce-recsys)
+Production-oriented recommendation system built on the Instacart dataset (~2M transactions).
 
-I build end-to-end data and machine learning solutions with a strong focus on
-reliability, reproducibility, and real-world impact.
+What it includes:
+- LightGBM model with Optuna tuning.
+- F1: 0.42 · AUC-ROC: 0.82 · +296% uplift vs. popularity baseline.
+- REST API deployed on AWS ECS Fargate.
+- Streamlit app, MLflow experiment tracking, CI/CD, and automated drift monitoring (PSI/KS).
+- Dual inference logic with cold-start fallback for full service availability.
 
-My path into Data Science combines two complementary backgrounds:
-5+ years as a **QA Engineer** — where I developed rigorous validation and
-analytical thinking — and a degree in **Political Science**, which included
-training in **statistics and quantitative methods**, shaping my ability to
-identify patterns and interpret complex systems.
-
-That foundation translates directly into how I approach data:
-structured, methodical, and focused on building things that actually work.
+Tech: Python · LightGBM · FastAPI · Streamlit · MLflow · Docker · AWS · PostgreSQL
 
 ---
 
-## What I work with
+### [MLOps Pipeline — Reproducible ML Workflow with CI/CD and Docker](https://github.com/federico1809/PI_Modulo5_MLOps)
+Production-oriented ML pipeline focused on reproducibility and maintainability.
 
-**Data & Analysis:** SQL · Python · Pandas · NumPy · EDA · Power BI · Tableau  
-**Machine Learning:** scikit-learn · Classification · Regression · Feature Engineering · Model Evaluation  
-**MLOps & Tools:** Docker · CI/CD · GitHub Actions · Git · Jupyter · Linux  
-**Methodologies:** Agile (Scrum) · Software Engineering Best Practices
+What it includes:
+- Dockerized training environment.
+- Model versioning and reproducible workflows.
+- CI/CD automation with GitHub Actions.
+- Modular project structure.
 
----
+Tech: Python · scikit-learn · Docker · GitHub Actions
 
-## Featured projects
+## What I do best
 
-📂 [Data Science Portfolio — End-to-End Analytics & ML Projects](https://github.com/federico1809/Data-Science-Portfolio)  
-EDA · Feature Engineering · Predictive Modeling · Business Visualization
+- Transform business problems into measurable ML tasks in order to predict.
+- Build reproducible and testable data workflows.
+- Combine analytical rigor with engineering discipline.
+- Focus on models that can be explained, validated, and deployed.
 
-⚙️ [MLOps Project — Reproducible ML Pipeline](https://github.com/federico1809/PI_Modulo5_MLOps)  
-Docker · CI/CD · GitHub Actions · Model Versioning
+## Background
 
----
+### QA Engineer & Scrum Master
+I spent more than five years in QA and Agile environments, which trained me to think in terms of edge cases, traceability, defect patterns, and delivery reliability. That perspective now shapes how I build data products.
 
-## Let's connect
+### Political Science
+My academic background strengthened my research mindset, quantitative reasoning, and ability to interpret complex systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-federico--ceballos--torres-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/federico-ceballos-torres/)
-[![Email](https://img.shields.io/badge/Email-federico.ct@gmail.com-D14836?style=flat&logo=gmail)](mailto:federico.ct@gmail.com)
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/federico-ceballos-torres/
+- GitHub: https://github.com/federico1809
+- Email: federico.ct@gmail.com
+
+## Resume
+
+If you're reviewing my profile for a Data Science, Data Analyst, or ML-focused role, my resume is available in the repository and on LinkedIn.
