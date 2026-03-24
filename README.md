@@ -1,7 +1,7 @@
 # Federico Ceballos Torres
 
 **Data Scientist | Data Analyst**  
-Python · SQL · LightGBM · XGBoost · QA background · Remote International
+Python · SQL · LightGBM · XGBoost
 
 I build end-to-end data and machine learning solutions for decision-making, with a strong focus on validation, reproducibility, and production readiness.
 
