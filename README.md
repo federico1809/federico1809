@@ -1,6 +1,6 @@
 # Federico Ceballos Torres
 
-**Data Scientist | Data Analyst**  
+**Data Scientist | End-to-End ML · Financial Risk & RecSys · AWS**  
 Python · SQL · LightGBM · XGBoost
 
 I build end-to-end data and machine learning solutions for decision-making, with a strong focus on validation, reproducibility, and production readiness.
