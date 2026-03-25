@@ -54,7 +54,7 @@ Tech: Python · scikit-learn · Docker · GitHub Actions
 - Transform business problems into measurable ML tasks in order to predict.
 - Build reproducible and testable data workflows.
 - Combine analytical rigor with engineering discipline.
-- Focus on models that can be explained, validated, and deployed.
+- Bridge the gap between QA thinking and ML engineering — catching edge cases before they become production failures.
 
 ## Background
 
@@ -72,4 +72,4 @@ My academic background strengthened my research mindset, quantitative reasoning,
 
 ## Resume
 
-If you're reviewing my profile for a Data Science, Data Analyst, or ML-focused role, my resume is available in the repository and on LinkedIn.
+If you're reviewing my profile for a Data Science, Data Analyst, or ML-focused role, my resume is available on LinkedIn.
