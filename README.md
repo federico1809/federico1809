@@ -3,7 +3,7 @@
 
 I build end-to-end data and machine learning solutions focused on validation, reproducibility, and production readiness. My background combines 5+ years in QA Engineering and Scrum Master roles — which shaped a systems mindset and structured approach to data workflows — with a Political Science degree that strengthened my research and quantitative reasoning skills.
 
-Currently working as Data & ML Engineer at [PhysaFlow](https://www.physaflow.com), a climate-tech AI startup that optimizes data centers in real time using biomimicry and edge-native AI. Building production RAG infrastructure: document pipelines, semantic chunking, embeddings, vector database integration, and automated retrieval evaluation.
+Currently working as Data & ML Engineer at [PhysaFlow](https://www.linkedin.com/company/physaflow/), a climate-tech AI startup that optimizes data centers in real time using biomimicry and edge-native AI. Building production RAG infrastructure: document pipelines, semantic chunking, embeddings, vector database integration, and automated retrieval evaluation.
 
 ---
 
