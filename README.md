@@ -1,20 +1,17 @@
 # Federico Ceballos Torres
+**Data Scientist | Data Analyst | ML Engineer | Python · SQL · LLMs · XGBoost**
 
-**Data Scientist | End-to-End ML · Financial Risk & RecSys · AWS**  
-Python · SQL · LightGBM · XGBoost
+I build end-to-end data and machine learning solutions focused on validation, reproducibility, and production readiness. My background combines 5+ years in QA Engineering and Scrum Master roles — which shaped a systems mindset and structured approach to data workflows — with a Political Science degree that strengthened my research and quantitative reasoning skills.
 
-I build end-to-end data and machine learning solutions for decision-making, with a strong focus on validation, reproducibility, and production readiness.
+Currently working as Data & ML Engineer at [PhysaFlow](https://www.physaflow.com), a climate-tech AI startup that optimizes data centers in real time using biomimicry and edge-native AI. Building production RAG infrastructure: document pipelines, semantic chunking, embeddings, vector database integration, and automated retrieval evaluation.
 
-My background combines:
-- 5+ years in QA Engineering and Scrum Master roles, where I developed structured validation habits and a systems mindset.
-- Hands-on work across the full data workflow: SQL extraction, EDA, feature engineering, supervised learning, evaluation, and deployment.
+---
 
 ## Featured Projects
 
 ### [Credit Risk Modeling — $16.8M Business Impact Optimization](https://github.com/federico1809/credit-risk-modeling)
 End-to-end ML system for loan default prediction.
 
-What it includes:
 - EDA, feature engineering, and model development with XGBoost.
 - Threshold optimization framed as a business cost minimization problem.
 - SHAP explainability, Optuna tuning, and Docker-based reproducibility.
@@ -25,51 +22,36 @@ Tech: Python · XGBoost · SHAP · Optuna · Docker · scikit-learn
 ---
 
 ### [Insight Commerce — Next-Basket RecSys · Deployed on AWS](https://github.com/federico1809/insight-commerce-recsys)
-Production-oriented recommendation system built on the Instacart dataset (~2M transactions).
+Production-grade recommendation system built on the Instacart dataset (~2M transactions).
 
-What it includes:
-- LightGBM model with Optuna tuning.
-- F1: 0.42 · AUC-ROC: 0.82 · +296% uplift vs. popularity baseline.
-- REST API deployed on AWS ECS Fargate.
-- Streamlit app, MLflow experiment tracking, CI/CD, and automated drift monitoring (PSI/KS).
+- LightGBM model with Optuna tuning: F1 0.42 · AUC-ROC 0.82 · +296% uplift vs. popularity baseline.
+- REST API deployed on AWS ECS Fargate · Streamlit app · MLflow experiment tracking.
+- CI/CD via GitHub Actions · automated drift monitoring (PSI/KS).
 - Dual inference logic with cold-start fallback for full service availability.
 
 Tech: Python · LightGBM · FastAPI · Streamlit · MLflow · Docker · AWS · PostgreSQL
 
 ---
 
-### [MLOps Pipeline — Reproducible ML Workflow with CI/CD and Docker](https://github.com/federico1809/PI_Modulo5_MLOps)
-Production-oriented ML pipeline focused on reproducibility and maintainability.
+## Tech Stack
 
-What it includes:
-- Dockerized training environment.
-- Model versioning and reproducible workflows.
-- CI/CD automation with GitHub Actions.
-- Modular project structure.
+**Languages & Data:** Python · SQL · Pandas · NumPy · Jupyter Notebook
 
-Tech: Python · scikit-learn · Docker · GitHub Actions
+**Machine Learning:** scikit-learn · LightGBM · XGBoost · CatBoost · Optuna · SHAP · Feature Engineering · Model Validation
 
-## What I do best
+**AI & LLMs:** LangChain · ChromaDB · SBERT · RAGAS · OpenAI API
 
-- Transform business problems into measurable ML tasks in order to predict.
-- Build reproducible and testable data workflows.
-- Combine analytical rigor with engineering discipline.
-- Bridge the gap between QA thinking and ML engineering — catching edge cases before they become production failures.
+**MLOps & Deployment:** Docker · GitHub Actions (CI/CD) · FastAPI · Streamlit · MLflow · AWS ECS Fargate · AWS S3 · AWS RDS
 
-## Background
+**Data Analysis & BI:** EDA · Statistical Analysis · Power BI · Tableau · Excel
 
-### QA Engineer & Scrum Master
-I spent more than five years in QA and Agile environments, which trained me to think in terms of edge cases, traceability, defect patterns, and delivery reliability. That perspective now shapes how I build data products.
+**Engineering Practices:** Git · Linux · Agile/Scrum · Reproducible Pipelines · Drift Monitoring (PSI/KS)
 
-### Political Science
-My academic background strengthened my research mindset, quantitative reasoning, and ability to interpret complex systems.
+---
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/federico-ceballos-torres/
-- GitHub: https://github.com/federico1809
-- Email: federico.ct@gmail.com
+- LinkedIn: [linkedin.com/in/federico-ceballos-torres](https://www.linkedin.com/in/federico-ceballos-torres/)
+- Email: [federico.ct@gmail.com](mailto:federico.ct@gmail.com)
 
-## Resume
-
-If you're reviewing my profile for a Data Science, Data Analyst, or ML-focused role, my resume is available on LinkedIn.
+If you're reviewing my profile for a Data Science, Data Analyst, or ML Engineering role, my resume is available on LinkedIn.
