@@ -5,7 +5,7 @@ Python · SQL · AWS · DevOps · LLMs
 
 I build end-to-end data and machine learning solutions with a focus on validation, reproducibility, and production readiness. My background combines 5+ years in QA Engineering and Scrum Master roles — including a Scrum Master certification — which shaped a systems mindset and structured approach to both engineering and team facilitation, with a Political Science degree that strengthened my research and quantitative reasoning.
 
-Currently **Scrum Master & Tech Lead at PhysaFlow**, a climate-tech AI startup optimizing data centers in real time using biomimicry and edge-native AI. PhysaFlow is part of the Harvard Alumni Entrepreneurs Accelerator (2026 cohort) and is benchmarking against NERSC telemetry at Lawrence Berkeley National Lab.
+Currently **Tech Lead & Machine Learning Engineer at PhysaFlow**, a climate-tech AI startup optimizing data centers in real time using biomimicry and edge-native AI. PhysaFlow is part of the Harvard Alumni Entrepreneurs Accelerator (2026 cohort) and is benchmarking against NERSC telemetry at Lawrence Berkeley National Lab.
 
 - **As Scrum Master** (official role): sprint planning and facilitation, ceremony ownership, and onboarding of new team members.
 - **As Tech Lead**: technical escalation point for the engineering team, architecture and delivery decisions across the RAG and infrastructure stack.
