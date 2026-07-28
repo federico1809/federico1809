@@ -1,6 +1,5 @@
 ### Federico Ceballos Torres
-**Data & Machine Learning Engineer**
-**Currently serving as Tech Lead at PhysaFlow**
+**Data & Machine Learning Engineer - Currently serving as Tech Lead at PhysaFlow**
 
 Python · SQL · AWS · DevOps · LLMs
 
